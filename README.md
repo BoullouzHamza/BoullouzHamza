@@ -1,6 +1,6 @@
 ## Hamza Boullouz
 
-PhD candidate in applied mathematics, UM6P (Morocco) & Université Le Havre Normandie (France). Defense: 7 December 2026.
+PhD candidate in applied mathematics, UM6P (Morocco) & Université Le Havre Normandie (France).
 
 I work on numerical methods for flow in porous media, from discretization to parallel implementation, with applications to composite manufacturing. My current focus is the coupling of these solvers with scientific machine learning.
 
